@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "this is a test directory to lrean git and node ",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "port":"3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoudregoo/git-github-test.git"
+  },
+  "author": "mahmoud ragab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahmoudregoo/git-github-test/issues"
+  },
+  "homepage": "https://github.com/mahmoudregoo/git-github-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
